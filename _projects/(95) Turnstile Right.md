@@ -1,6 +1,6 @@
 ---
 name: Turnstile Right
-tools: [VR, JavaScript, HTML5]
+tools: [Python, Arduino, Tableau]
 image: /images/turnright_cover.png
 description: A turnstile system proposal for libraries
 ---
