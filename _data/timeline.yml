@@ -1,17 +1,28 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Software Engineer, TSYS, Nicosia Cyprus
+  from: 2021
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 
+
+- title: Software Engineer, eBay, London UK
+  from: 2017
+  to: 2021
+  description: • Full stack software development duties for the implementation and continuous advancement of eBay's Shipping Platform (Java 7-11, Kotlin, Spring Boot, Kafka, ReactJS, Typescript, Redux, MongoDB, Oracle SQL, Sass)
+               • Lead key projects and participated in all the software development life cycle phases.
+               • Had Agile Lead responsibilities at eBay where we embraced the Scrum framework and particularly Extreme Programming (XP), Kanban, and Continuous Delivery.
+               • Espoused eBay's culture for pair-programming, test-driven development (TDD), code quality, refactoring, and customer-first strategy for decision making.
+               • Produced interactive visualization charts for monitoring and alerting (Grafana, PromQL, Prometheus)
+               • Created CI/CD pipelines on Jenkins as well as automated business verification testing steps that helped my team move towards the direction of continuous deployments and minimized manual intervention.
+               • Lead the engineering on-call readiness program that better prepared my colleagues handling the duty of 1st line of engineering support.
+               • Assisted in organizing and running week-long hacking events where we encouraged innovation and creativity for building and pitching products to company VPs and executives. My team devised and presented globally esteemed ventures to eBay's Expo in San Jose, California USA.
+               • Conducted technical interviews for prospective hires.
+               • Contributed to eBay’s tech blog by authoring articles.
+
+- title: MSc Computer Science, Middlesex University, London UK
+  from: 2016
+  to: 2017
+  description: 
+
+- title: BSc Computer Science, Montclair State University, New Jersey USA
+  from: 2010
+  to: 2015
+  description: 
