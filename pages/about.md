@@ -8,12 +8,13 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A sassy Software Developer, eager in using disruptive technologies to create innovative user-centered solutions. Creative problem solver who has completed high quality projects, but also self-motivated leader and team player, enthusiastic and dependable, as well as able to work under pressure.
 
-<div class="row">
+
+<!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+</div> -->
 
 <div class="row">
 {% include about/timeline.html %}

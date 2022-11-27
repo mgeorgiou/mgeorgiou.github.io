@@ -1,21 +1,12 @@
-- title: Software Engineer, TSYS, Nicosia Cyprus
+- title: Software Engineer @ TSYS, Nicosia Cyprus
   from: 2021
   to: present
   description: 
 
-- title: Software Engineer, eBay, London UK
+- title: Software Engineer @ eBay, London UK
   from: 2017
   to: 2021
-  description: • Full stack software development duties for the implementation and continuous advancement of eBay's Shipping Platform (Java 7-11, Kotlin, Spring Boot, Kafka, ReactJS, Typescript, Redux, MongoDB, Oracle SQL, Sass)
-               • Lead key projects and participated in all the software development life cycle phases.
-               • Had Agile Lead responsibilities at eBay where we embraced the Scrum framework and particularly Extreme Programming (XP), Kanban, and Continuous Delivery.
-               • Espoused eBay's culture for pair-programming, test-driven development (TDD), code quality, refactoring, and customer-first strategy for decision making.
-               • Produced interactive visualization charts for monitoring and alerting (Grafana, PromQL, Prometheus)
-               • Created CI/CD pipelines on Jenkins as well as automated business verification testing steps that helped my team move towards the direction of continuous deployments and minimized manual intervention.
-               • Lead the engineering on-call readiness program that better prepared my colleagues handling the duty of 1st line of engineering support.
-               • Assisted in organizing and running week-long hacking events where we encouraged innovation and creativity for building and pitching products to company VPs and executives. My team devised and presented globally esteemed ventures to eBay's Expo in San Jose, California USA.
-               • Conducted technical interviews for prospective hires.
-               • Contributed to eBay’s tech blog by authoring articles.
+  description:
 
 - title: MSc Computer Science, Middlesex University, London UK
   from: 2016
